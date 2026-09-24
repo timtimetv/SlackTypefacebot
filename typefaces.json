@@ -1,0 +1,2564 @@
+[
+  {
+    "name": "Helvetica",
+    "designer": "Max Miedinger & Eduard Hoffmann",
+    "year": "1957",
+    "classification": "Neo-grotesque sans",
+    "fact": "It launched as \"Neue Haas Grotesk\" and was renamed in 1960 to Helvetica, from the Latin name for Switzerland, to sell better abroad."
+  },
+  {
+    "name": "Tiempos",
+    "designer": "Kris Sowersby (Klim)",
+    "year": "2010",
+    "classification": "Serif",
+    "fact": "It grew out of a newspaper redesign project and became a staple of editorial design."
+  },
+  {
+    "name": "Klavika",
+    "designer": "Eric Olson",
+    "year": "2004",
+    "classification": "Sans",
+    "fact": "Facebook's original wordmark was based on Klavika."
+  },
+  {
+    "name": "Iowan Old Style",
+    "designer": "John Downer",
+    "year": "1990",
+    "classification": "Old-style serif",
+    "fact": "Downer, also a sign painter, drew it. It later became one of the reading fonts in Apple Books."
+  },
+  {
+    "name": "Stencil",
+    "designer": "Gerry Powell",
+    "year": "1937",
+    "classification": "Stencil",
+    "fact": "Two different typefaces called \"Stencil\" were released within months of each other in 1937, one by ATF and one by Ludlow."
+  },
+  {
+    "name": "Glypha",
+    "designer": "Adrian Frutiger",
+    "year": "1977",
+    "classification": "Slab serif",
+    "fact": "It is a lighter, tighter take on Serifa with a larger x-height."
+  },
+  {
+    "name": "Comic Sans",
+    "designer": "Vincent Connare",
+    "year": "1994",
+    "classification": "Casual script",
+    "fact": "Connare based it on the lettering in comic books he had at his desk. It was made for Microsoft Bob's speech bubbles but finished too late to ship with Bob."
+  },
+  {
+    "name": "Raleway",
+    "designer": "Matt McInerney",
+    "year": "2010",
+    "classification": "Sans",
+    "fact": "It started as a single thin weight and was later expanded by the community into a full family."
+  },
+  {
+    "name": "New York",
+    "designer": "Susan Kare",
+    "year": "1984",
+    "classification": "Bitmap serif",
+    "fact": "Kare's original New York was the Mac's serif. In 2019 Apple reused the name for a new serif family."
+  },
+  {
+    "name": "Retina",
+    "designer": "Tobias Frere-Jones",
+    "year": "2000",
+    "classification": "Grotesque sans",
+    "fact": "It was made for The Wall Street Journal's stock listings and printed at tiny sizes (about 5.5 points) on newsprint."
+  },
+  {
+    "name": "Tiresias",
+    "designer": "Royal National Institute of Blind People",
+    "year": "1990s",
+    "classification": "Sans (accessibility)",
+    "fact": "It is named after the blind prophet of Greek mythology and was designed for subtitles and signage readable by people with low vision."
+  },
+  {
+    "name": "Josefin Sans",
+    "designer": "Santiago Orozco",
+    "year": "2010",
+    "classification": "Geometric sans",
+    "fact": "It was inspired by geometric Swedish designs of the 1920s."
+  },
+  {
+    "name": "Cormorant",
+    "designer": "Christian Thalmann",
+    "year": "2015",
+    "classification": "Display Garamond",
+    "fact": "It is a free, very high-contrast take on Garamond, designed to look elegant at huge sizes."
+  },
+  {
+    "name": "GT Walsheim",
+    "designer": "Noël Leu (Grilli Type)",
+    "year": "2010",
+    "classification": "Geometric sans",
+    "fact": "It was inspired by poster lettering by the Swiss designer Otto Baumberger."
+  },
+  {
+    "name": "Cooper Black",
+    "designer": "Oswald Cooper",
+    "year": "1922",
+    "classification": "Soft serif display",
+    "fact": "That chunky title on the Beach Boys' album Pet Sounds is Cooper Black. The typeface became shorthand for 1970s warmth."
+  },
+  {
+    "name": "Bodoni",
+    "designer": "Giambattista Bodoni",
+    "year": "1798",
+    "classification": "Didone serif",
+    "fact": "Bodoni's \"Manuale Tipografico\", showcasing hundreds of typefaces, was published by his widow in 1818, five years after he died."
+  },
+  {
+    "name": "Lobster",
+    "designer": "Pablo Impallari",
+    "year": "2010",
+    "classification": "Script",
+    "fact": "This free, bold script became so common online in the early 2010s that designers begged each other to stop using it."
+  },
+  {
+    "name": "Silkscreen",
+    "designer": "Jason Kottke",
+    "year": "1999",
+    "classification": "Pixel",
+    "fact": "It was designed for tiny text on websites in the Flash era, when pixel fonts stayed crisp."
+  },
+  {
+    "name": "FE-Schrift",
+    "designer": "Karlgeorg Hoefer",
+    "year": "1978",
+    "classification": "Sans (license plate)",
+    "fact": "It is used on German license plates and designed to be hard to tamper with. You can't easily paint a P into an R or an E into a B."
+  },
+  {
+    "name": "Guardian Egyptian",
+    "designer": "Paul Barnes & Christian Schwartz",
+    "year": "2005",
+    "classification": "Slab serif",
+    "fact": "It was made for The Guardian's 2005 redesign and grew into a huge family for everything from headlines to body text."
+  },
+  {
+    "name": "Tw Cen MT",
+    "designer": "Monotype",
+    "year": "1990s",
+    "classification": "Geometric sans",
+    "fact": "It is a digital descendant of Sol Hess's Twentieth Century and ships with Office."
+  },
+  {
+    "name": "Avenir",
+    "designer": "Adrian Frutiger",
+    "year": "1988",
+    "classification": "Geometric sans",
+    "fact": "\"Avenir\" is French for \"future,\" a nod to Futura. Frutiger wanted a warmer, more human geometric sans."
+  },
+  {
+    "name": "Broadway",
+    "designer": "Morris Fuller Benton",
+    "year": "1928",
+    "classification": "Art Deco display",
+    "fact": "Its dramatic thick-and-thin letters became the typeface of the Jazz Age."
+  },
+  {
+    "name": "Computer Modern",
+    "designer": "Donald Knuth",
+    "year": "1970s",
+    "classification": "Didone-style serif",
+    "fact": "Knuth made it with his own METAFONT program, and it became the default look of TeX and LaTeX papers."
+  },
+  {
+    "name": "PT Sans",
+    "designer": "ParaType",
+    "year": "2009",
+    "classification": "Humanist sans",
+    "fact": "It was made to mark 300 years since Peter the Great's reform of the Cyrillic alphabet and is free to use."
+  },
+  {
+    "name": "Wilhelm Klingspor Gotisch",
+    "designer": "Rudolf Koch",
+    "year": "1926",
+    "classification": "Textura blackletter",
+    "fact": "It was named in memory of Wilhelm Klingspor of the Klingspor type-foundry family and is considered one of the finest 20th-century blackletters."
+  },
+  {
+    "name": "Westminster",
+    "designer": "Leo Maggs",
+    "year": "1965",
+    "classification": "Display",
+    "fact": "It borrows the chunky look of cheque MICR digits and became the go-to \"computer\" font of the 1960s and 70s."
+  },
+  {
+    "name": "Hobo",
+    "designer": "Morris Fuller Benton",
+    "year": "1910",
+    "classification": "Art Nouveau display",
+    "fact": "Its letters have almost no straight lines, and it has no true descenders. The name's origin is still a mystery."
+  },
+  {
+    "name": "Edwardian Script",
+    "designer": "Ed Benguiat",
+    "year": "1994",
+    "classification": "Script",
+    "fact": "It captures pointed-pen copperplate writing and was one of Benguiat's many scripts."
+  },
+  {
+    "name": "Nimbus Sans",
+    "designer": "URW",
+    "year": "1980s",
+    "classification": "Neo-grotesque sans",
+    "fact": "URW's Helvetica clone ships with Ghostscript, so it quietly stands in for Helvetica on countless Linux systems."
+  },
+  {
+    "name": "Bulmer",
+    "designer": "William Martin",
+    "year": "c. 1790",
+    "classification": "Transitional serif",
+    "fact": "It was cut for William Bulmer's Shakespeare Printing Office to print the Boydell edition of Shakespeare."
+  },
+  {
+    "name": "SF Mono",
+    "designer": "Apple",
+    "year": "2016",
+    "classification": "Monospaced",
+    "fact": "It is the monospaced cousin of San Francisco, used in Xcode and Terminal."
+  },
+  {
+    "name": "Palatino",
+    "designer": "Hermann Zapf",
+    "year": "1949",
+    "classification": "Old-style serif",
+    "fact": "It is named after Giambattista Palatino, a 16th-century Italian master of handwriting."
+  },
+  {
+    "name": "Coronet",
+    "designer": "R. Hunter Middleton",
+    "year": "1937",
+    "classification": "Script",
+    "fact": "Its light, bouncy look defined a lot of mid-century American packaging."
+  },
+  {
+    "name": "Graphik",
+    "designer": "Christian Schwartz",
+    "year": "2009",
+    "classification": "Grotesque sans",
+    "fact": "It was designed as a plain, modern grotesque and became common in magazines and tech branding."
+  },
+  {
+    "name": "Roboto",
+    "designer": "Christian Robertson",
+    "year": "2011",
+    "classification": "Neo-grotesque sans",
+    "fact": "It debuted with Android 4.0 \"Ice Cream Sandwich\" and became Android's signature font."
+  },
+  {
+    "name": "Gill Sans Ultra Bold",
+    "designer": "Eric Gill",
+    "year": "1930s",
+    "classification": "Display",
+    "fact": "Nicknamed \"Kayo\" (knockout), it is so heavy it barely resembles Gill Sans."
+  },
+  {
+    "name": "Spectral",
+    "designer": "Production Type",
+    "year": "2017",
+    "classification": "Serif (screen)",
+    "fact": "It was designed by Production Type and released with Google for elegant reading on screens."
+  },
+  {
+    "name": "Garamond Premier",
+    "designer": "Robert Slimbach",
+    "year": "2005",
+    "classification": "Old-style serif",
+    "fact": "Slimbach went back to Garamond's original punches for this, one of the most historically faithful Garamonds."
+  },
+  {
+    "name": "FF Trixie",
+    "designer": "Erik van Blokland",
+    "year": "1991",
+    "classification": "Typewriter",
+    "fact": "It is reportedly based on the worn type of an old typewriter belonging to a friend named Beatrix."
+  },
+  {
+    "name": "ITC Benguiat",
+    "designer": "Ed Benguiat",
+    "year": "1977",
+    "classification": "Display serif",
+    "fact": "The glowing red Stranger Things title is set in Benguiat, which pulled the typeface back into pop culture."
+  },
+  {
+    "name": "Octavian",
+    "designer": "Will Carter & David Kindersley",
+    "year": "1961",
+    "classification": "Serif",
+    "fact": "Two British letter-cutters made it, and it shows the influence of stone lettering."
+  },
+  {
+    "name": "Joanna",
+    "designer": "Eric Gill",
+    "year": "1930",
+    "classification": "Transitional serif",
+    "fact": "Gill named it after his daughter Joanna and used it to set his own \"An Essay on Typography.\""
+  },
+  {
+    "name": "Chaparral",
+    "designer": "Carol Twombly",
+    "year": "1997",
+    "classification": "Slab serif",
+    "fact": "It blends 19th-century slab lettering with Renaissance book-hand proportions."
+  },
+  {
+    "name": "Kabel",
+    "designer": "Rudolf Koch",
+    "year": "1927",
+    "classification": "Geometric sans",
+    "fact": "The name is German for \"cable\" and reportedly honours a new telecommunications cable of the day. Its slanted strokes make it unusually lively for a geometric sans."
+  },
+  {
+    "name": "Consolas",
+    "designer": "Lucas de Groot",
+    "year": "2004",
+    "classification": "Monospaced",
+    "fact": "Microsoft made it for coders, and it was tuned for ClearType screen rendering."
+  },
+  {
+    "name": "Cantarell",
+    "designer": "Dave Crossland",
+    "year": "2009",
+    "classification": "Humanist sans",
+    "fact": "It became the default interface font of the GNOME desktop."
+  },
+  {
+    "name": "Bookerly",
+    "designer": "Dalton Maag",
+    "year": "2015",
+    "classification": "Serif (screen)",
+    "fact": "Amazon commissioned it as the Kindle's own reading font, replacing Caecilia as the default."
+  },
+  {
+    "name": "Ubuntu",
+    "designer": "Dalton Maag",
+    "year": "2010",
+    "classification": "Humanist sans",
+    "fact": "The Ubuntu Linux distribution commissioned it as its interface and brand font."
+  },
+  {
+    "name": "Janson",
+    "designer": "Miklós (Nicholas) Kis",
+    "year": "c. 1685",
+    "classification": "Old-style serif",
+    "fact": "For years it was credited to the Dutch printer Anton Janson. Scholars later traced it to Kis, a Hungarian punchcutter."
+  },
+  {
+    "name": "Template Gothic",
+    "designer": "Barry Deck",
+    "year": "1990",
+    "classification": "Display sans",
+    "fact": "Deck based it on stencil lettering he saw on a sign at a laundromat. It came to define 1990s grunge design."
+  },
+  {
+    "name": "FF DIN",
+    "designer": "Albert-Jan Pool",
+    "year": "1995",
+    "classification": "Engineered sans",
+    "fact": "Pool refined the German DIN 1451 standard into a family designers could use for text."
+  },
+  {
+    "name": "Mrs Eaves",
+    "designer": "Zuzana Licko",
+    "year": "1996",
+    "classification": "Transitional serif",
+    "fact": "It is named after Sarah Eaves, John Baskerville's housekeeper, who became his wife and ran the business after he died."
+  },
+  {
+    "name": "Benton Sans",
+    "designer": "Tobias Frere-Jones & Cyrus Highsmith",
+    "year": "1995",
+    "classification": "Grotesque sans",
+    "fact": "It is a revival of Morris Fuller Benton's News Gothic, named in his honour."
+  },
+  {
+    "name": "Bank Gothic",
+    "designer": "Morris Fuller Benton",
+    "year": "1930",
+    "classification": "Square sans",
+    "fact": "Its squared-off capitals give it a technological look, and science-fiction titles love it."
+  },
+  {
+    "name": "Brandon Grotesque",
+    "designer": "Hannes von Döhren",
+    "year": "2010",
+    "classification": "Geometric sans",
+    "fact": "It is influenced by the geometric sans serifs of the 1920s and 30s, with a slightly softer finish."
+  },
+  {
+    "name": "Montserrat",
+    "designer": "Julieta Ulanovsky",
+    "year": "2010",
+    "classification": "Geometric sans",
+    "fact": "It was inspired by old posters and signage in the Montserrat neighbourhood of Buenos Aires."
+  },
+  {
+    "name": "ITC Avant Garde Gothic",
+    "designer": "Herb Lubalin & Tom Carnase",
+    "year": "1970",
+    "classification": "Geometric sans",
+    "fact": "It grew out of the logo for Avant Garde magazine. Its many tight ligatures were so often misused that designers joked about banning them."
+  },
+  {
+    "name": "Source Han Sans",
+    "designer": "Adobe & Google",
+    "year": "2014",
+    "classification": "CJK sans",
+    "fact": "Each font has 65,535 glyphs, the maximum an OpenType font can hold, to cover Chinese, Japanese and Korean."
+  },
+  {
+    "name": "Lutetia",
+    "designer": "Jan van Krimpen",
+    "year": "1925",
+    "classification": "Old-style serif",
+    "fact": "\"Lutetia\" is the Latin name for Paris. The face was shown at the 1925 Paris Exposition."
+  },
+  {
+    "name": "Twentieth Century",
+    "designer": "Sol Hess",
+    "year": "1937",
+    "classification": "Geometric sans",
+    "fact": "This Monotype design was the basis for Century Gothic."
+  },
+  {
+    "name": "Source Sans Pro",
+    "designer": "Paul D. Hunt",
+    "year": "2012",
+    "classification": "Humanist sans",
+    "fact": "It was Adobe's first open-source typeface family."
+  },
+  {
+    "name": "Snell Roundhand",
+    "designer": "Matthew Carter",
+    "year": "1965",
+    "classification": "Script",
+    "fact": "It is based on the flowing penmanship of 17th-century English writing master Charles Snell."
+  },
+  {
+    "name": "Egyptienne F",
+    "designer": "Adrian Frutiger",
+    "year": "1956",
+    "classification": "Slab serif",
+    "fact": "It was one of the first typefaces designed specifically for phototypesetting."
+  },
+  {
+    "name": "Hypatia Sans",
+    "designer": "Thomas W. Phinney",
+    "year": "2011",
+    "classification": "Humanist sans",
+    "fact": "It is named after Hypatia of Alexandria, the ancient philosopher and mathematician."
+  },
+  {
+    "name": "Johnston100",
+    "designer": "Monotype (for TfL)",
+    "year": "2016",
+    "classification": "Humanist sans",
+    "fact": "It marked Johnston's 100th birthday with new weights for Transport for London."
+  },
+  {
+    "name": "Helvetica Neue",
+    "designer": "D. Stempel AG / Linotype",
+    "year": "1983",
+    "classification": "Neo-grotesque sans",
+    "fact": "This reworked Helvetica borrowed Univers' numbered weight system, so \"Helvetica 55\" became as familiar as \"Univers 55.\""
+  },
+  {
+    "name": "Bell Centennial",
+    "designer": "Matthew Carter",
+    "year": "1976",
+    "classification": "Grotesque sans",
+    "fact": "It was made for AT&T phone books. Its \"ink traps\" (notches cut into corners) kept letters sharp on cheap paper at tiny sizes."
+  },
+  {
+    "name": "FF Meta",
+    "designer": "Erik Spiekermann",
+    "year": "1985",
+    "classification": "Humanist sans",
+    "fact": "It began as a font for the German Post Office, which never used it. Later it was nicknamed \"the Helvetica of the '90s.\""
+  },
+  {
+    "name": "Zapf Dingbats",
+    "designer": "Hermann Zapf",
+    "year": "1978",
+    "classification": "Symbol",
+    "fact": "It was one of the 35 fonts built into PostScript printers, so almost every laser printer could print its stars, checks and pointing hands."
+  },
+  {
+    "name": "Fournier",
+    "designer": "Pierre-Simon Fournier",
+    "year": "1740s",
+    "classification": "Transitional serif",
+    "fact": "Fournier published an early typographic point system in 1737, an ancestor of how we measure type today."
+  },
+  {
+    "name": "Excelsior",
+    "designer": "Chauncey H. Griffith",
+    "year": "1931",
+    "classification": "Newspaper serif",
+    "fact": "It was part of Linotype's \"Legibility Group,\" designed to stay readable on fast presses and cheap newsprint."
+  },
+  {
+    "name": "Antique Olive",
+    "designer": "Roger Excoffon",
+    "year": "1962",
+    "classification": "Humanist sans",
+    "fact": "Its tall x-height and quirky, thick-topped letters gave French design a distinctive voice, including the Air France logo."
+  },
+  {
+    "name": "Bradley Hand",
+    "designer": "Richard Bradley",
+    "year": "1995",
+    "classification": "Handwriting",
+    "fact": "It is based on the designer's own handwriting and ships with Windows and macOS."
+  },
+  {
+    "name": "Diotima",
+    "designer": "Gudrun Zapf-von Hesse",
+    "year": "1952",
+    "classification": "Serif",
+    "fact": "Zapf-von Hesse was one of the few prominent women type designers of her generation. Diotima is named after a wise woman in Plato's Symposium."
+  },
+  {
+    "name": "Optima",
+    "designer": "Hermann Zapf",
+    "year": "1958",
+    "classification": "Flared sans",
+    "fact": "Zapf got the idea from inscriptions in the floor of Santa Croce in Florence and made his first sketches on a 1,000-lira banknote."
+  },
+  {
+    "name": "Fira Sans",
+    "designer": "Erik Spiekermann & Carrois",
+    "year": "2013",
+    "classification": "Humanist sans",
+    "fact": "It was designed for Mozilla's Firefox OS and released free for anyone to use."
+  },
+  {
+    "name": "Folio",
+    "designer": "Konrad Bauer & Walter Baum",
+    "year": "1957",
+    "classification": "Grotesque sans",
+    "fact": "It came out in 1957, the same year as Helvetica and Univers, and lost the popularity race to both."
+  },
+  {
+    "name": "Electra",
+    "designer": "W. A. Dwiggins",
+    "year": "1935",
+    "classification": "Transitional serif",
+    "fact": "Dwiggins aimed for a book face with \"warmth and personality.\" Unusually, its italic started out as a sloped roman."
+  },
+  {
+    "name": "Caledonia",
+    "designer": "W. A. Dwiggins",
+    "year": "1938",
+    "classification": "Scotch/transitional serif",
+    "fact": "Dwiggins is credited with coining the term \"graphic designer\" in 1922."
+  },
+  {
+    "name": "Erbar",
+    "designer": "Jakob Erbar",
+    "year": "1926",
+    "classification": "Geometric sans",
+    "fact": "Erbar started work on it in 1922, which makes it one of the earliest geometric sans serifs, ahead of Futura."
+  },
+  {
+    "name": "Minion",
+    "designer": "Robert Slimbach",
+    "year": "1990",
+    "classification": "Old-style serif",
+    "fact": "It is named after \"minion,\" a traditional name for a small type size (around 7 points)."
+  },
+  {
+    "name": "DejaVu Sans",
+    "designer": "DejaVu community",
+    "year": "2004",
+    "classification": "Humanist sans",
+    "fact": "It extended Bitstream Vera with thousands of extra characters and became a Linux default."
+  },
+  {
+    "name": "Merriweather",
+    "designer": "Eben Sorkin",
+    "year": "2010",
+    "classification": "Serif (screen)",
+    "fact": "It was designed for comfortable reading on screens and became one of Google Fonts' most-used serifs."
+  },
+  {
+    "name": "Tahoma",
+    "designer": "Matthew Carter",
+    "year": "1994",
+    "classification": "Humanist sans (screen)",
+    "fact": "It is a close relative of Verdana with tighter spacing and was the Windows interface font for years."
+  },
+  {
+    "name": "Plantin",
+    "designer": "Frank Hinman Pierpont",
+    "year": "1913",
+    "classification": "Old-style serif",
+    "fact": "It is named after the 16th-century Antwerp printer Christophe Plantin and was one of the models for Times New Roman."
+  },
+  {
+    "name": "Castellar",
+    "designer": "John Peters",
+    "year": "1957",
+    "classification": "Inscriptional capitals",
+    "fact": "Its engraved-looking Roman capitals come across as formal and ceremonial."
+  },
+  {
+    "name": "Neuland",
+    "designer": "Rudolf Koch",
+    "year": "1923",
+    "classification": "Display",
+    "fact": "Koch cut the punches directly in metal without drawings first, so every size came out slightly different. The Jurassic Park logo made it famous again."
+  },
+  {
+    "name": "Century Gothic",
+    "designer": "Monotype",
+    "year": "1990",
+    "classification": "Geometric sans",
+    "fact": "A U.S. university once switched its default font to Century Gothic because it reportedly used less printer ink than Arial."
+  },
+  {
+    "name": "Wingdings",
+    "designer": "Charles Bigelow & Kris Holmes",
+    "year": "1990",
+    "classification": "Symbol",
+    "fact": "Microsoft built it from Bigelow & Holmes' symbol designs. A long-running hoax claimed typing \"NYC\" in it hid a secret message."
+  },
+  {
+    "name": "Archer",
+    "designer": "Hoefler & Frere-Jones",
+    "year": "2001",
+    "classification": "Slab serif",
+    "fact": "It was first made for Martha Stewart Living. Its round ball terminals give it a friendly, crafty feel."
+  },
+  {
+    "name": "Schwabacher",
+    "designer": "Unknown German printers",
+    "year": "1480s",
+    "classification": "Blackletter",
+    "fact": "This round, lively blackletter was the everyday type of Luther-era German printing."
+  },
+  {
+    "name": "Bembo",
+    "designer": "Francesco Griffo",
+    "year": "1495",
+    "classification": "Old-style serif",
+    "fact": "It is named after the poet Pietro Bembo, whose short book \"De Aetna\" was the first thing printed in this roman type by Aldus Manutius."
+  },
+  {
+    "name": "Literata",
+    "designer": "TypeTogether",
+    "year": "2015",
+    "classification": "Serif (screen)",
+    "fact": "It was commissioned for Google Play Books and designed for long reading on screens."
+  },
+  {
+    "name": "Hoefler Text",
+    "designer": "Jonathan Hoefler",
+    "year": "1991",
+    "classification": "Old-style serif",
+    "fact": "Apple commissioned it, and it shipped with the Mac to show off advanced typography features."
+  },
+  {
+    "name": "Memphis",
+    "designer": "Rudolf Wolf",
+    "year": "1929",
+    "classification": "Geometric slab serif",
+    "fact": "It is one of the first geometric slab serifs: basically Futura with slabs."
+  },
+  {
+    "name": "Playfair Display",
+    "designer": "Claus Eggers Sørensen",
+    "year": "2011",
+    "classification": "Transitional display serif",
+    "fact": "It is inspired by the high-contrast letters of the late 18th century, when pointed-pen writing influenced type."
+  },
+  {
+    "name": "Parisine",
+    "designer": "Jean-François Porchez",
+    "year": "1996",
+    "classification": "Humanist sans (signage)",
+    "fact": "It is the signage typeface of the Paris Métro, drawn to be clear in underground lighting."
+  },
+  {
+    "name": "Akzidenz-Grotesk",
+    "designer": "H. Berthold AG",
+    "year": "1898",
+    "classification": "Grotesque sans",
+    "fact": "This workhorse of Swiss modernism was the direct inspiration for both Helvetica and Univers."
+  },
+  {
+    "name": "Latin Modern",
+    "designer": "Bogusław Jackowski & Janusz M. Nowacki",
+    "year": "2003",
+    "classification": "Didone-style serif",
+    "fact": "It extends Knuth's Computer Modern with many more accented characters."
+  },
+  {
+    "name": "OCR-A",
+    "designer": "American Type Founders (for ANSI)",
+    "year": "1968",
+    "classification": "Monospaced (machine-readable)",
+    "fact": "It was designed for early optical scanners. Its odd shapes were easy for machines to read, and they became a retro-futurist style."
+  },
+  {
+    "name": "Work Sans",
+    "designer": "Wei Huang",
+    "year": "2015",
+    "classification": "Grotesque sans",
+    "fact": "It was loosely inspired by early grotesques such as those in Stephenson Blake specimens."
+  },
+  {
+    "name": "Charcoal",
+    "designer": "David Berlow",
+    "year": "1995",
+    "classification": "Sans",
+    "fact": "It replaced Chicago as the system font in Mac OS 8."
+  },
+  {
+    "name": "Beowolf",
+    "designer": "Erik van Blokland & Just van Rossum",
+    "year": "1990",
+    "classification": "Randomized serif",
+    "fact": "Using PostScript tricks, its letter outlines randomly change each time you print, so no two copies look exactly the same."
+  },
+  {
+    "name": "Monaco",
+    "designer": "Susan Kare",
+    "year": "1984",
+    "classification": "Monospaced",
+    "fact": "Monaco was the Mac's default terminal font for years before Menlo took over."
+  },
+  {
+    "name": "Century Schoolbook",
+    "designer": "Morris Fuller Benton",
+    "year": "1919",
+    "classification": "Clarendon-style serif",
+    "fact": "Benton designed it for textbooks after research on legibility for young readers. The U.S. Supreme Court requires briefs in the Century family."
+  },
+  {
+    "name": "San Francisco (2015)",
+    "designer": "Apple",
+    "year": "2015",
+    "classification": "Neo-grotesque sans",
+    "fact": "Apple's system font debuted on the Apple Watch before spreading to iPhone and Mac."
+  },
+  {
+    "name": "Webdings",
+    "designer": "Microsoft",
+    "year": "1997",
+    "classification": "Symbol",
+    "fact": "It was designed so web pages could use pictograms before emoji existed, when an icon meant an image download."
+  },
+  {
+    "name": "Hiragino",
+    "designer": "Jiyu-Kobo",
+    "year": "1993",
+    "classification": "Japanese gothic/mincho",
+    "fact": "It has been the main Japanese typeface on Macs and iPhones for years."
+  },
+  {
+    "name": "Bell",
+    "designer": "Richard Austin",
+    "year": "1788",
+    "classification": "Transitional serif",
+    "fact": "It was cut for John Bell's British Letter Foundry and is considered one of the first English \"modern\" faces."
+  },
+  {
+    "name": "Dead History",
+    "designer": "P. Scott Makela",
+    "year": "1990",
+    "classification": "Display",
+    "fact": "Makela spliced together parts of two existing typefaces, VAG Rounded and Centennial Script, to make one hybrid."
+  },
+  {
+    "name": "Alternate Gothic",
+    "designer": "Morris Fuller Benton",
+    "year": "1903",
+    "classification": "Grotesque sans (condensed)",
+    "fact": "It came in three widths so printers could fit headlines of different lengths. That need gave it a very long life."
+  },
+  {
+    "name": "Transport",
+    "designer": "Jock Kinneir & Margaret Calvert",
+    "year": "1963",
+    "classification": "Humanist sans (signage)",
+    "fact": "It is the lettering on British road signs. Calvert also drew many of the UK's road-sign pictograms, such as the \"children crossing\" sign."
+  },
+  {
+    "name": "Verlag",
+    "designer": "Jonathan Hoefler",
+    "year": "1996",
+    "classification": "Geometric sans",
+    "fact": "It began as the typeface for the Guggenheim Museum's identity."
+  },
+  {
+    "name": "Narkis",
+    "designer": "Zvi Narkiss",
+    "year": "1940s",
+    "classification": "Hebrew",
+    "fact": "Narkiss designed many Hebrew faces, including lettering for Israeli banknotes and stamps."
+  },
+  {
+    "name": "Centaur",
+    "designer": "Bruce Rogers",
+    "year": "1914",
+    "classification": "Venetian serif",
+    "fact": "Rogers based it on Nicolas Jenson's 15th-century roman and first drew it for the Metropolitan Museum of Art."
+  },
+  {
+    "name": "Cooper Hewitt",
+    "designer": "Chester Jenkins",
+    "year": "2014",
+    "classification": "Sans",
+    "fact": "The Smithsonian Design Museum released its typeface as open source, which was unusual for a museum identity."
+  },
+  {
+    "name": "Georgia",
+    "designer": "Matthew Carter",
+    "year": "1993",
+    "classification": "Transitional serif (screen)",
+    "fact": "Carter designed it for screens at Microsoft. The name reportedly comes from a tabloid headline, \"Alien Heads Found in Georgia.\""
+  },
+  {
+    "name": "Mason",
+    "designer": "Jonathan Barnbrook",
+    "year": "1992",
+    "classification": "Display serif",
+    "fact": "It was originally named \"Manson.\" After complaints, the publisher shortened the name to Mason."
+  },
+  {
+    "name": "ITC Souvenir",
+    "designer": "Morris Fuller Benton (ITC revival by Ed Benguiat)",
+    "year": "1914",
+    "classification": "Soft serif",
+    "fact": "It was barely used after 1914, then Benguiat's 1970 ITC revival made it one of the defining looks of the 1970s."
+  },
+  {
+    "name": "Product Sans",
+    "designer": "Google",
+    "year": "2015",
+    "classification": "Geometric sans",
+    "fact": "Google created it for its 2015 logo redesign. Its \"G\" became one of the most seen letters on Earth."
+  },
+  {
+    "name": "Bookman",
+    "designer": "Alexander Phemister",
+    "year": "1860",
+    "classification": "Old-style serif",
+    "fact": "It started as \"Old Style Antique\" and got the name Bookman later. Its wide, sturdy letters survive rough printing."
+  },
+  {
+    "name": "Utopia",
+    "designer": "Robert Slimbach",
+    "year": "1989",
+    "classification": "Transitional serif",
+    "fact": "Adobe later donated a version to TeX users, so it often turns up in academic papers."
+  },
+  {
+    "name": "Vectora",
+    "designer": "Adrian Frutiger",
+    "year": "1990",
+    "classification": "Grotesque sans",
+    "fact": "Frutiger based it on American gothics such as Franklin Gothic and News Gothic."
+  },
+  {
+    "name": "Aldine Italic",
+    "designer": "Francesco Griffo",
+    "year": "1501",
+    "classification": "Italic",
+    "fact": "This was the first italic type. Aldus Manutius used it to fit more text into small, affordable pocket editions."
+  },
+  {
+    "name": "New Alphabet",
+    "designer": "Wim Crouwel",
+    "year": "1967",
+    "classification": "Experimental",
+    "fact": "Crouwel built it only from horizontal and vertical lines for early screens. It was so radical that many letters are hard to read."
+  },
+  {
+    "name": "Open Sans",
+    "designer": "Steve Matteson",
+    "year": "2011",
+    "classification": "Humanist sans",
+    "fact": "It was one of the first big free fonts on Google Fonts and was served billions of times across the web."
+  },
+  {
+    "name": "Trajan",
+    "designer": "Carol Twombly",
+    "year": "1989",
+    "classification": "Inscriptional capitals",
+    "fact": "It is based on the inscription at the base of Trajan's Column in Rome (113 AD) and has capitals only. It became a fixture of movie posters."
+  },
+  {
+    "name": "Textura (Gutenberg B42)",
+    "designer": "Johannes Gutenberg",
+    "year": "c. 1455",
+    "classification": "Blackletter",
+    "fact": "The type for Gutenberg's Bible had about 290 different sorts (ligatures, abbreviations, variant letters) to imitate a scribe's hand."
+  },
+  {
+    "name": "VAG Rounded",
+    "designer": "Volkswagen AG",
+    "year": "1979",
+    "classification": "Rounded sans",
+    "fact": "It was made for Volkswagen, hence \"VAG,\" and later spread far beyond cars, including to keyboards and signage."
+  },
+  {
+    "name": "Friz Quadrata",
+    "designer": "Ernst Friz & Victor Caruso",
+    "year": "1965",
+    "classification": "Glyphic serif",
+    "fact": "Friz began it, and Victor Caruso of ITC completed the family. Its chiselled letters lean between serif and sans."
+  },
+  {
+    "name": "Ondine",
+    "designer": "Adrian Frutiger",
+    "year": "1954",
+    "classification": "Script",
+    "fact": "Frutiger drew it from lettering cut with scissors and a broad-pen feel."
+  },
+  {
+    "name": "Calvert",
+    "designer": "Margaret Calvert",
+    "year": "1980",
+    "classification": "Slab serif",
+    "fact": "The Tyne and Wear Metro in Newcastle used it for decades."
+  },
+  {
+    "name": "Sabon",
+    "designer": "Jan Tschichold",
+    "year": "1967",
+    "classification": "Old-style serif",
+    "fact": "It was commissioned to look identical whether set by hand, on Linotype machines or on Monotype machines, a tough constraint at the time."
+  },
+  {
+    "name": "American Typewriter",
+    "designer": "Joel Kaden & Tony Stan",
+    "year": "1974",
+    "classification": "Typewriter slab",
+    "fact": "Milton Glaser set the famous \"I ♥ NY\" logo in American Typewriter."
+  },
+  {
+    "name": "Thesis (TheSans)",
+    "designer": "Lucas de Groot",
+    "year": "1994",
+    "classification": "Superfamily",
+    "fact": "It was one of the largest type families ever, with sans, serif, mono and more in many weights."
+  },
+  {
+    "name": "Fell Types",
+    "designer": "John Fell (collection)",
+    "year": "1670s",
+    "classification": "Old-style serif",
+    "fact": "Bishop John Fell gave Oxford University Press a collection of type he had bought from the Netherlands. Its digital revival is free."
+  },
+  {
+    "name": "Doves Type",
+    "designer": "Thomas Cobden-Sanderson & Emery Walker",
+    "year": "1900",
+    "classification": "Old-style serif",
+    "fact": "After a feud with his partner, Cobden-Sanderson threw all the metal type off a London bridge into the Thames. Divers recovered some of it in 2015."
+  },
+  {
+    "name": "Bickham Script",
+    "designer": "Richard Lipton",
+    "year": "1997",
+    "classification": "Script",
+    "fact": "It is based on engravings from George Bickham's 18th-century penmanship book \"The Universal Penman.\""
+  },
+  {
+    "name": "Gill Sans",
+    "designer": "Eric Gill",
+    "year": "1928",
+    "classification": "Humanist sans",
+    "fact": "It was adopted by the London and North Eastern Railway and later became the face of Penguin Books covers and the BBC's logo."
+  },
+  {
+    "name": "Mona Sans",
+    "designer": "GitHub",
+    "year": "2022",
+    "classification": "Grotesque sans",
+    "fact": "GitHub named it after its Octocat mascot, Mona, and released it free."
+  },
+  {
+    "name": "Operator",
+    "designer": "Hoefler & Co.",
+    "year": "2016",
+    "classification": "Monospaced",
+    "fact": "This coding font pairs a monospaced roman with a cursive, handwriting-like italic."
+  },
+  {
+    "name": "City",
+    "designer": "Georg Trump",
+    "year": "1930",
+    "classification": "Geometric slab serif",
+    "fact": "Paul Rand's 1956 IBM logo was based on City Medium."
+  },
+  {
+    "name": "American Uncial",
+    "designer": "Victor Hammer",
+    "year": "1945",
+    "classification": "Uncial",
+    "fact": "Hammer was inspired by early medieval Irish manuscripts such as the Book of Kells."
+  },
+  {
+    "name": "Fedra Sans",
+    "designer": "Peter Biľak",
+    "year": "2001",
+    "classification": "Humanist sans",
+    "fact": "It began as a corporate typeface that was never used, then was released commercially and grew to cover many scripts."
+  },
+  {
+    "name": "Noto",
+    "designer": "Google",
+    "year": "2012",
+    "classification": "Superfamily",
+    "fact": "The name means \"no tofu.\" \"Tofu\" is slang for the blank boxes shown when a font lacks a character, and Noto aims to cover every script in Unicode."
+  },
+  {
+    "name": "Bell Gothic",
+    "designer": "Chauncey H. Griffith",
+    "year": "1938",
+    "classification": "Grotesque sans",
+    "fact": "It was the phone-book typeface before Bell Centennial replaced it in the 1970s."
+  },
+  {
+    "name": "Akkurat",
+    "designer": "Laurenz Brunner",
+    "year": "2004",
+    "classification": "Grotesque sans",
+    "fact": "This sharp Swiss grotesque became a favourite of art-world and museum identities."
+  },
+  {
+    "name": "Agency FB",
+    "designer": "Morris Fuller Benton / David Berlow",
+    "year": "1932/1990",
+    "classification": "Condensed square sans",
+    "fact": "It began as a caps-only face, and Font Bureau later expanded it into a full family."
+  },
+  {
+    "name": "Park Avenue",
+    "designer": "Robert E. Smith",
+    "year": "1933",
+    "classification": "Script",
+    "fact": "This Art Deco-era script was a favourite for elegant menus and ads."
+  },
+  {
+    "name": "Fette Fraktur",
+    "designer": "Johann Christian Bauer",
+    "year": "1850s",
+    "classification": "Blackletter",
+    "fact": "In 1941 the Nazi regime abruptly banned blackletter type, falsely calling it \"Jewish letters,\" and ordered a switch to roman type."
+  },
+  {
+    "name": "Exocet",
+    "designer": "Jonathan Barnbrook",
+    "year": "1991",
+    "classification": "Display capitals",
+    "fact": "Its rough, ancient-inscription look made it the typeface of the Diablo video game series."
+  },
+  {
+    "name": "Geneva",
+    "designer": "Susan Kare",
+    "year": "1984",
+    "classification": "Bitmap sans",
+    "fact": "One of the original Mac fonts, it was a small-screen take on Helvetica."
+  },
+  {
+    "name": "Old English Text",
+    "designer": "Monotype",
+    "year": "1990 (digital)",
+    "classification": "Blackletter",
+    "fact": "It is the blackletter many people meet first. It ships with Windows and shows up on diplomas and tattoos."
+  },
+  {
+    "name": "Eurostile",
+    "designer": "Aldo Novarese",
+    "year": "1962",
+    "classification": "Square sans",
+    "fact": "Its rounded-rectangle shapes echo 1960s TV screens, which is why it keeps turning up in science fiction."
+  },
+  {
+    "name": "Space Mono",
+    "designer": "Colophon",
+    "year": "2016",
+    "classification": "Monospaced",
+    "fact": "Colophon designed it for Google with a retro-futuristic editorial feel."
+  },
+  {
+    "name": "Barlow",
+    "designer": "Jeremy Tribby",
+    "year": "2017",
+    "classification": "Grotesque sans",
+    "fact": "It was inspired by California highway signs and license plates."
+  },
+  {
+    "name": "Peignot",
+    "designer": "A. M. Cassandre",
+    "year": "1937",
+    "classification": "Display sans",
+    "fact": "Cassandre mixed upper- and lowercase shapes in one alphabet, trying to reform the Latin alphabet itself."
+  },
+  {
+    "name": "Proxima Nova",
+    "designer": "Mark Simonson",
+    "year": "2005",
+    "classification": "Geometric/grotesque sans",
+    "fact": "It began in 1994 as the smaller Proxima Sans and grew into one of the most popular web fonts of the 2010s."
+  },
+  {
+    "name": "Motter Tektura",
+    "designer": "Othmar Motter",
+    "year": "1975",
+    "classification": "Display",
+    "fact": "Apple used this jaunty face in the late 1970s, and Reebok used it in its logo."
+  },
+  {
+    "name": "Arno",
+    "designer": "Robert Slimbach",
+    "year": "2007",
+    "classification": "Old-style serif",
+    "fact": "It is named after the Arno, the river that runs through Florence, where the Italian Renaissance types that inspired it were made."
+  },
+  {
+    "name": "Comic Neue",
+    "designer": "Craig Rozynski",
+    "year": "2014",
+    "classification": "Casual sans",
+    "fact": "A deliberate \"grown-up\" redesign of Comic Sans that keeps the friendliness and drops the awkwardness."
+  },
+  {
+    "name": "Univers",
+    "designer": "Adrian Frutiger",
+    "year": "1957",
+    "classification": "Neo-grotesque sans",
+    "fact": "Frutiger named its weights with numbers instead of words. \"55\" is roman, the tens digit sets the weight and the ones digit sets the width."
+  },
+  {
+    "name": "Inter",
+    "designer": "Rasmus Andersson",
+    "year": "2016",
+    "classification": "Neo-grotesque sans (screen)",
+    "fact": "Andersson designed it for computer screens, with a tall x-height for small UI text."
+  },
+  {
+    "name": "Lato",
+    "designer": "Łukasz Dziedzic",
+    "year": "2010",
+    "classification": "Humanist sans",
+    "fact": "\"Lato\" means \"summer\" in Polish. It was designed to feel warm and stable at text sizes and sleek in headlines."
+  },
+  {
+    "name": "Verdana",
+    "designer": "Matthew Carter",
+    "year": "1996",
+    "classification": "Humanist sans (screen)",
+    "fact": "When IKEA switched from Futura to Verdana in 2009, the backlash was big enough that the press called it \"Verdanagate.\""
+  },
+  {
+    "name": "Franklin Gothic",
+    "designer": "Morris Fuller Benton",
+    "year": "1902",
+    "classification": "Grotesque sans",
+    "fact": "It is named after Benjamin Franklin, who was a printer before he was a founding father."
+  },
+  {
+    "name": "Alegreya",
+    "designer": "Juan Pablo del Peral",
+    "year": "2011",
+    "classification": "Humanist serif",
+    "fact": "It was designed for literature and has a lively, calligraphic rhythm for long reading."
+  },
+  {
+    "name": "Rockwell",
+    "designer": "Monotype",
+    "year": "1934",
+    "classification": "Slab serif",
+    "fact": "Slab serifs were once called \"Egyptians,\" a name from the craze for all things Egyptian after Napoleon's campaign there."
+  },
+  {
+    "name": "Imprint",
+    "designer": "Gerard Meynell & J. H. Mason",
+    "year": "1912",
+    "classification": "Old-style serif",
+    "fact": "It was one of the first typefaces designed for mechanical typesetting on Monotype machines, and was made for The Imprint journal."
+  },
+  {
+    "name": "Neutraface",
+    "designer": "Christian Schwartz",
+    "year": "2002",
+    "classification": "Geometric sans",
+    "fact": "It is based on the lettering on buildings by the modernist architect Richard Neutra."
+  },
+  {
+    "name": "Copperplate Gothic",
+    "designer": "Frederic Goudy",
+    "year": "1901",
+    "classification": "Engraved-look sans",
+    "fact": "It has no lowercase. Its tiny, crisp serifs imitate engraving and have made it a classic on business cards."
+  },
+  {
+    "name": "Geist",
+    "designer": "Vercel",
+    "year": "2023",
+    "classification": "Sans",
+    "fact": "Vercel designed it for developers and released it free alongside a mono version."
+  },
+  {
+    "name": "Highway Gothic",
+    "designer": "U.S. Federal Highway Administration",
+    "year": "1948",
+    "classification": "Sans (signage)",
+    "fact": "This is the lettering on most U.S. road signs. It was drawn for legibility at speed, not for beauty."
+  },
+  {
+    "name": "Circular",
+    "designer": "Laurenz Brunner",
+    "year": "2013",
+    "classification": "Geometric sans",
+    "fact": "This Swiss geometric sans became the voice of many tech brands. Spotify used it for years."
+  },
+  {
+    "name": "Corona",
+    "designer": "Chauncey H. Griffith",
+    "year": "1941",
+    "classification": "Newspaper serif",
+    "fact": "It became one of the most widely used U.S. newspaper text faces of the mid-20th century."
+  },
+  {
+    "name": "Lubalin Graph",
+    "designer": "Herb Lubalin",
+    "year": "1974",
+    "classification": "Geometric slab serif",
+    "fact": "It adds slab serifs to the geometric skeleton of ITC Avant Garde."
+  },
+  {
+    "name": "Bifur",
+    "designer": "A. M. Cassandre",
+    "year": "1929",
+    "classification": "Art Deco display",
+    "fact": "Each letter keeps only its most distinctive part, with the rest suggested by fine lines, making it one of the boldest Art Deco experiments."
+  },
+  {
+    "name": "Grotesque (Caslon Egyptian)",
+    "designer": "William Caslon IV",
+    "year": "1816",
+    "classification": "Sans serif",
+    "fact": "Caslon IV's \"Two Lines English Egyptian\" is considered the first sans-serif typeface. It had capitals only, and few people used it at first."
+  },
+  {
+    "name": "Eckmann",
+    "designer": "Otto Eckmann",
+    "year": "1900",
+    "classification": "Art Nouveau display",
+    "fact": "Eckmann, a painter, brought flowing Jugendstil plant forms into type."
+  },
+  {
+    "name": "DIN 1451",
+    "designer": "Deutsches Institut für Normung",
+    "year": "1931",
+    "classification": "Engineered sans",
+    "fact": "It was created as a German industrial standard for signage, engineering drawings and license plates. Designers later adopted it as a style icon."
+  },
+  {
+    "name": "Bernhard Fashion",
+    "designer": "Lucian Bernhard",
+    "year": "1929",
+    "classification": "Art Deco display",
+    "fact": "Its very light, elegant letters captured the fashion ads of the late 1920s."
+  },
+  {
+    "name": "Liberation",
+    "designer": "Steve Matteson",
+    "year": "2007",
+    "classification": "Superfamily",
+    "fact": "Red Hat commissioned it to be metric-compatible with Arial, Times New Roman and Courier New, so documents keep the same layout on Linux."
+  },
+  {
+    "name": "Surveyor",
+    "designer": "Hoefler & Co.",
+    "year": "2011",
+    "classification": "Didone serif",
+    "fact": "It is inspired by the lettering on 19th-century maps and engraved charts."
+  },
+  {
+    "name": "Trade Gothic",
+    "designer": "Jackson Burke",
+    "year": "1948",
+    "classification": "Grotesque sans",
+    "fact": "Burke kept adding weights and widths over many years. Its condensed bold versions are a newsroom and sportswear staple."
+  },
+  {
+    "name": "Kepler",
+    "designer": "Robert Slimbach",
+    "year": "1996",
+    "classification": "Modern serif",
+    "fact": "It is named after the astronomer Johannes Kepler."
+  },
+  {
+    "name": "Oswald",
+    "designer": "Vernon Adams",
+    "year": "2011",
+    "classification": "Grotesque sans (condensed)",
+    "fact": "It reworks the classic Alternate Gothic style for screens."
+  },
+  {
+    "name": "Serifa",
+    "designer": "Adrian Frutiger",
+    "year": "1967",
+    "classification": "Slab serif",
+    "fact": "Frutiger built it from the skeleton of his own Univers and added slab serifs."
+  },
+  {
+    "name": "Clarendon",
+    "designer": "Robert Besley",
+    "year": "1845",
+    "classification": "Slab serif",
+    "fact": "It was one of the first typefaces registered under Britain's Ornamental Designs Act of 1842. The protection lasted only three years before copies appeared."
+  },
+  {
+    "name": "Rubik",
+    "designer": "Hubert & Fischer",
+    "year": "2015",
+    "classification": "Rounded sans",
+    "fact": "It was designed for Google's Chrome Cube Lab, a project celebrating the Rubik's Cube."
+  },
+  {
+    "name": "Cairo",
+    "designer": "Susan Kare",
+    "year": "1984",
+    "classification": "Bitmap pictograms",
+    "fact": "This Mac picture font is where Clarus the Dogcow comes from, the mascot of Mac page-setup dialogs."
+  },
+  {
+    "name": "Trebuchet MS",
+    "designer": "Vincent Connare",
+    "year": "1996",
+    "classification": "Humanist sans",
+    "fact": "It is named after the medieval siege engine. Connare liked the idea of a font that could \"launch\" text across the internet."
+  },
+  {
+    "name": "Arnold Böcklin",
+    "designer": "Otto Weisert",
+    "year": "1904",
+    "classification": "Art Nouveau display",
+    "fact": "It is named after the Swiss Symbolist painter Arnold Böcklin and is quintessential Art Nouveau."
+  },
+  {
+    "name": "Myriad",
+    "designer": "Robert Slimbach & Carol Twombly",
+    "year": "1992",
+    "classification": "Humanist sans",
+    "fact": "Apple used Myriad as its corporate typeface for over a decade, including on early iPod ads."
+  },
+  {
+    "name": "ITC Officina",
+    "designer": "Erik Spiekermann",
+    "year": "1990",
+    "classification": "Sans & serif",
+    "fact": "It was designed for office correspondence printed on low-quality laser printers."
+  },
+  {
+    "name": "Monaspace",
+    "designer": "GitHub Next",
+    "year": "2023",
+    "classification": "Monospaced",
+    "fact": "It uses \"texture healing,\" which lets wide letters borrow space from narrow neighbours, evening out monospaced text."
+  },
+  {
+    "name": "Swiss 721",
+    "designer": "Bitstream",
+    "year": "1980s",
+    "classification": "Neo-grotesque sans",
+    "fact": "Bitstream sold Helvetica under a code name. Swiss 721 is Helvetica, and \"Dutch 801\" is their Times."
+  },
+  {
+    "name": "Pacifico",
+    "designer": "Vernon Adams",
+    "year": "2011",
+    "classification": "Script",
+    "fact": "It channels 1950s American surf culture and its signs."
+  },
+  {
+    "name": "Marker Felt",
+    "designer": "Pat Snyder",
+    "year": "1990s",
+    "classification": "Casual",
+    "fact": "It looks like felt-tip marker. It's the font behind the early iPhone Notes app's yellow-paper look."
+  },
+  {
+    "name": "ITC Serif Gothic",
+    "designer": "Herb Lubalin & Tony DiSpigna",
+    "year": "1972",
+    "classification": "Display",
+    "fact": "Its tiny serifs on a sans structure made it popular for 1970s album and movie titles."
+  },
+  {
+    "name": "EB Garamond",
+    "designer": "Georg Duffner",
+    "year": "2011",
+    "classification": "Old-style serif",
+    "fact": "It is a free revival based on a 1592 type specimen by the Egenolff-Berner foundry that showed Garamond's type."
+  },
+  {
+    "name": "ITC Bauhaus",
+    "designer": "Ed Benguiat & Victor Caruso",
+    "year": "1975",
+    "classification": "Geometric display",
+    "fact": "It was based on Herbert Bayer's 1925 \"universal\" alphabet. Bayer argued for dropping capital letters entirely."
+  },
+  {
+    "name": "New York (2019)",
+    "designer": "Apple",
+    "year": "2019",
+    "classification": "Serif",
+    "fact": "Apple's modern serif takes its name from Susan Kare's 1984 bitmap font."
+  },
+  {
+    "name": "Karmina",
+    "designer": "Veronika Burian & José Scaglione",
+    "year": "2007",
+    "classification": "Serif",
+    "fact": "Burian and Scaglione co-founded TypeTogether, a foundry focused on text typefaces."
+  },
+  {
+    "name": "IBM Plex",
+    "designer": "Mike Abbink & Bold Monday",
+    "year": "2017",
+    "classification": "Grotesque superfamily",
+    "fact": "Plex replaced Helvetica Neue as IBM's corporate typeface, and IBM released it as open source."
+  },
+  {
+    "name": "Space Grotesk",
+    "designer": "Florian Karsten",
+    "year": "2018",
+    "classification": "Grotesque sans",
+    "fact": "It was derived from Space Mono, a retro-futurist monospaced font by Colophon."
+  },
+  {
+    "name": "Jokerman",
+    "designer": "Andrew Smith",
+    "year": "1995",
+    "classification": "Decorative",
+    "fact": "Its busy dots and swirls made it a fixture of 1990s school projects."
+  },
+  {
+    "name": "Vollkorn",
+    "designer": "Friedrich Althausen",
+    "year": "2005",
+    "classification": "Old-style serif",
+    "fact": "\"Vollkorn\" means \"wholegrain\" in German. Althausen wanted a hearty, everyday bread-and-butter text face."
+  },
+  {
+    "name": "Aldus",
+    "designer": "Hermann Zapf",
+    "year": "1954",
+    "classification": "Old-style serif",
+    "fact": "It is named after Aldus Manutius and was made as a lighter text companion to Palatino."
+  },
+  {
+    "name": "Imperial",
+    "designer": "Edwin W. Shaar",
+    "year": "1957",
+    "classification": "Newspaper serif",
+    "fact": "The New York Times used Imperial for its body text for decades."
+  },
+  {
+    "name": "Karnak",
+    "designer": "R. Hunter Middleton",
+    "year": "1931",
+    "classification": "Slab serif",
+    "fact": "It is named after the Karnak temple complex in Egypt, keeping up the \"Egyptian\" slab-serif naming habit."
+  },
+  {
+    "name": "Frutiger",
+    "designer": "Adrian Frutiger",
+    "year": "1976",
+    "classification": "Humanist sans",
+    "fact": "It began as the signage typeface for Charles de Gaulle Airport in Paris, where it had to be readable at a distance and at an angle."
+  },
+  {
+    "name": "Walbaum",
+    "designer": "Justus Erich Walbaum",
+    "year": "c. 1800",
+    "classification": "Didone serif",
+    "fact": "Walbaum ran a foundry in Weimar. His crisp modern faces are a German counterpart to Bodoni and Didot."
+  },
+  {
+    "name": "Calibri",
+    "designer": "Lucas de Groot",
+    "year": "2007",
+    "classification": "Humanist sans",
+    "fact": "It replaced Times New Roman as Microsoft Office's default in 2007 and held that spot until Aptos took over in 2023."
+  },
+  {
+    "name": "E-13B (MICR)",
+    "designer": "American Bankers Association",
+    "year": "1958",
+    "classification": "Magnetic ink numerals",
+    "fact": "The strange numbers at the bottom of cheques are printed in magnetic ink, and each shape has a unique magnetic signature for bank machines."
+  },
+  {
+    "name": "News Gothic",
+    "designer": "Morris Fuller Benton",
+    "year": "1908",
+    "classification": "Grotesque sans",
+    "fact": "The Star Wars opening crawl is commonly identified as News Gothic."
+  },
+  {
+    "name": "Wallau",
+    "designer": "Rudolf Koch",
+    "year": "1930",
+    "classification": "Rotunda blackletter",
+    "fact": "It is named after Heinrich Wallau, a respected German printer and scholar."
+  },
+  {
+    "name": "Letter Gothic",
+    "designer": "Roger Roberson (IBM)",
+    "year": "c. 1956",
+    "classification": "Monospaced sans",
+    "fact": "It was designed for IBM electric typewriters and later became a favourite for code and technical documents."
+  },
+  {
+    "name": "Chicago",
+    "designer": "Susan Kare",
+    "year": "1984",
+    "classification": "Bitmap sans",
+    "fact": "The original Macintosh system font. Steve Jobs wanted the Mac's fonts named after world-class cities, so Kare's set included Geneva, New York and Monaco."
+  },
+  {
+    "name": "Scotch Roman",
+    "designer": "Miller & Richard",
+    "year": "c. 1810",
+    "classification": "Transitional serif",
+    "fact": "This Scottish type found huge success in the United States, where it became a classic book and newspaper face."
+  },
+  {
+    "name": "Garage Gothic",
+    "designer": "Tobias Frere-Jones",
+    "year": "1992",
+    "classification": "Display sans",
+    "fact": "It is based on the numbers printed on parking-garage tickets."
+  },
+  {
+    "name": "Arial Black",
+    "designer": "Robin Nicholas & Patricia Saunders",
+    "year": "1997",
+    "classification": "Neo-grotesque sans",
+    "fact": "The ultra-heavy Arial shipped with Microsoft's core web fonts."
+  },
+  {
+    "name": "Corbel",
+    "designer": "Jeremy Tankard",
+    "year": "2005",
+    "classification": "Humanist sans",
+    "fact": "It was part of Microsoft's ClearType font collection and tuned for LCD screens."
+  },
+  {
+    "name": "Garamond",
+    "designer": "Claude Garamond",
+    "year": "1530s",
+    "classification": "Old-style serif",
+    "fact": "Many typefaces sold as \"Garamond\" are actually based on type cut by Jean Jannon around 1615, and were misattributed to Garamond for centuries."
+  },
+  {
+    "name": "Gotham",
+    "designer": "Tobias Frere-Jones",
+    "year": "2000",
+    "classification": "Geometric sans",
+    "fact": "It was drawn for GQ magazine from mid-century lettering on New York buildings. The 2008 Obama campaign made it famous."
+  },
+  {
+    "name": "Baskerville",
+    "designer": "John Baskerville",
+    "year": "1757",
+    "classification": "Transitional serif",
+    "fact": "Baskerville was obsessive about quality. To show off his type he helped develop smoother \"wove\" paper and a glossier black ink."
+  },
+  {
+    "name": "Meiryo",
+    "designer": "C&G Inc. & Eiichi Kono",
+    "year": "2006",
+    "classification": "Japanese gothic",
+    "fact": "Its name comes from Japanese meaning \"clear\" or \"lucid.\" It was designed for readable Japanese on screens."
+  },
+  {
+    "name": "Zapfino",
+    "designer": "Hermann Zapf",
+    "year": "1998",
+    "classification": "Calligraphic script",
+    "fact": "Type the word \"Zapfino\" in the font and the letters join into one elaborate ligature, a hidden signature built into the font."
+  },
+  {
+    "name": "Bitstream Vera",
+    "designer": "Jim Lyles",
+    "year": "2003",
+    "classification": "Humanist sans",
+    "fact": "Bitstream released it under a free licence for GNOME. It spawned DejaVu and eventually Apple's Menlo."
+  },
+  {
+    "name": "Founders Grotesk",
+    "designer": "Kris Sowersby (Klim)",
+    "year": "2010",
+    "classification": "Grotesque sans",
+    "fact": "It is based on classic British grotesques from the Miller & Richard foundry."
+  },
+  {
+    "name": "Brush Script",
+    "designer": "Robert E. Smith",
+    "year": "1942",
+    "classification": "Script",
+    "fact": "It looks like fast brush lettering and was once shorthand for mid-century diners, signs and ads."
+  },
+  {
+    "name": "Rotis",
+    "designer": "Otl Aicher",
+    "year": "1988",
+    "classification": "Hybrid sans/serif",
+    "fact": "It is named after Rotis, the small German hamlet where Aicher lived and worked. He also designed the 1972 Munich Olympics pictograms."
+  },
+  {
+    "name": "Arial",
+    "designer": "Robin Nicholas & Patricia Saunders",
+    "year": "1982",
+    "classification": "Neo-grotesque sans",
+    "fact": "Every Arial character is exactly as wide as its Helvetica counterpart, so documents could swap one for the other without reflowing."
+  },
+  {
+    "name": "FF Scala",
+    "designer": "Martin Majoor",
+    "year": "1990",
+    "classification": "Humanist serif",
+    "fact": "It was designed for the Vredenburg music centre in Utrecht and named in honour of Milan's Teatro alla Scala."
+  },
+  {
+    "name": "Adobe Garamond",
+    "designer": "Robert Slimbach",
+    "year": "1989",
+    "classification": "Old-style serif",
+    "fact": "Slimbach studied original 16th-century Garamond type at the Plantin-Moretus Museum in Antwerp."
+  },
+  {
+    "name": "Spectrum",
+    "designer": "Jan van Krimpen",
+    "year": "1952",
+    "classification": "Serif",
+    "fact": "It was designed for a Bible from the Dutch publisher Het Spectrum, which gave it its name."
+  },
+  {
+    "name": "Albertus",
+    "designer": "Berthold Wolpe",
+    "year": "1932",
+    "classification": "Glyphic serif",
+    "fact": "You'll see it on City of London street signs and in the opening titles of the cult 1960s TV series The Prisoner."
+  },
+  {
+    "name": "Caecilia",
+    "designer": "Peter Matthias Noordzij",
+    "year": "1991",
+    "classification": "Humanist slab serif",
+    "fact": "For years this friendly slab serif was the default reading font on Amazon Kindles."
+  },
+  {
+    "name": "Recursive",
+    "designer": "Arrow Type",
+    "year": "2019",
+    "classification": "Variable sans & mono",
+    "fact": "One variable font slides from a monospaced coding style to a casual, brushy style."
+  },
+  {
+    "name": "Andale Mono",
+    "designer": "Steve Matteson",
+    "year": "1997",
+    "classification": "Monospaced",
+    "fact": "It was one of Microsoft's \"Core fonts for the Web\" and was built for clear code."
+  },
+  {
+    "name": "Schneidler",
+    "designer": "F. H. Ernst Schneidler",
+    "year": "1936",
+    "classification": "Old-style serif",
+    "fact": "Schneidler was an influential teacher in Stuttgart. His students included Georg Trump and Imre Reiner."
+  },
+  {
+    "name": "Avenir Next",
+    "designer": "Adrian Frutiger & Akira Kobayashi",
+    "year": "2004",
+    "classification": "Geometric sans",
+    "fact": "Frutiger worked with Akira Kobayashi to expand Avenir with more weights and widths, and it became a staple of Apple's system fonts."
+  },
+  {
+    "name": "JetBrains Mono",
+    "designer": "JetBrains",
+    "year": "2020",
+    "classification": "Monospaced",
+    "fact": "It uses a taller x-height than most coding fonts to make code easier to read at small sizes."
+  },
+  {
+    "name": "Dante",
+    "designer": "Giovanni Mardersteig",
+    "year": "1954",
+    "classification": "Old-style serif",
+    "fact": "Punchcutter Charles Malin cut it by hand. It was first used for an edition of Boccaccio's life of Dante."
+  },
+  {
+    "name": "Weiss",
+    "designer": "Emil Rudolf Weiss",
+    "year": "1926",
+    "classification": "Old-style serif",
+    "fact": "Weiss was a painter and poet as well as a type designer, and it shows in the typeface's delicate calligraphic feel."
+  },
+  {
+    "name": "Cambria",
+    "designer": "Jelle Bosma",
+    "year": "2004",
+    "classification": "Transitional serif",
+    "fact": "Its companion Cambria Math is one of the most complete fonts for mathematical notation."
+  },
+  {
+    "name": "Mallory",
+    "designer": "Tobias Frere-Jones",
+    "year": "2015",
+    "classification": "Humanist sans",
+    "fact": "It combines British and American type traditions. It was Frere-Jones's first release from his own foundry."
+  },
+  {
+    "name": "Adobe Caslon",
+    "designer": "Carol Twombly",
+    "year": "1990",
+    "classification": "Old-style serif",
+    "fact": "Twombly based it on Caslon's own specimen sheets from the 1730s–1760s."
+  },
+  {
+    "name": "Söhne",
+    "designer": "Kris Sowersby (Klim)",
+    "year": "2019",
+    "classification": "Grotesque sans",
+    "fact": "Klim describes it as \"the memory of Akzidenz-Grotesk framed through the Helvetica of the New York subway.\""
+  },
+  {
+    "name": "Shelley",
+    "designer": "Matthew Carter",
+    "year": "1972",
+    "classification": "Script",
+    "fact": "It is a formal English roundhand script for invitations and certificates."
+  },
+  {
+    "name": "Baby Teeth",
+    "designer": "Milton Glaser",
+    "year": "1964",
+    "classification": "Display",
+    "fact": "Glaser based it on a hand-painted sign he saw in Mexico City."
+  },
+  {
+    "name": "League Gothic",
+    "designer": "The League of Moveable Type",
+    "year": "2009",
+    "classification": "Grotesque sans (condensed)",
+    "fact": "A free, open-source revival of Alternate Gothic from a group that set out to make quality free fonts."
+  },
+  {
+    "name": "Galliard",
+    "designer": "Matthew Carter",
+    "year": "1978",
+    "classification": "Old-style serif",
+    "fact": "It is based on the work of 16th-century punchcutter Robert Granjon and named after a lively Renaissance dance."
+  },
+  {
+    "name": "Sentinel",
+    "designer": "Hoefler & Frere-Jones",
+    "year": "2009",
+    "classification": "Slab serif",
+    "fact": "Hoefler & Co. designed it as a slab serif with a true italic, which slab serifs had long lacked."
+  },
+  {
+    "name": "Playbill",
+    "designer": "Robert Harling",
+    "year": "1938",
+    "classification": "Display (Italian)",
+    "fact": "Its reversed-stress look (thick horizontals, thin verticals) instantly says \"Wild West wanted poster.\""
+  },
+  {
+    "name": "Cloister Black",
+    "designer": "Morris Fuller Benton & Joseph W. Phinney",
+    "year": "1904",
+    "classification": "Blackletter",
+    "fact": "This classic blackletter became the default for \"Old English\" newspaper mastheads and certificates."
+  },
+  {
+    "name": "Druk",
+    "designer": "Berton Hasebe",
+    "year": "2014",
+    "classification": "Display sans",
+    "fact": "Its ultra-heavy, ultra-condensed styles are made for giant headlines."
+  },
+  {
+    "name": "Gentium",
+    "designer": "Victor Gaultney",
+    "year": "2003",
+    "classification": "Serif",
+    "fact": "It was created for SIL International to support the huge range of Latin, Greek and Cyrillic characters used in minority languages."
+  },
+  {
+    "name": "Filosofia",
+    "designer": "Zuzana Licko",
+    "year": "1996",
+    "classification": "Didone serif",
+    "fact": "Licko's personal take on Bodoni, with softened contrast so it holds up at text sizes."
+  },
+  {
+    "name": "Didot",
+    "designer": "Firmin Didot",
+    "year": "1784",
+    "classification": "Didone serif",
+    "fact": "The Didot family also gave its name to the Didot point, a unit of type measurement still used in parts of Europe."
+  },
+  {
+    "name": "Poliphilus",
+    "designer": "Francesco Griffo",
+    "year": "1499",
+    "classification": "Venetian serif",
+    "fact": "It was used to print the \"Hypnerotomachia Poliphili,\" often called the most beautiful book of the Renaissance."
+  },
+  {
+    "name": "Netflix Sans",
+    "designer": "Dalton Maag",
+    "year": "2018",
+    "classification": "Sans",
+    "fact": "Netflix commissioned its own typeface, reportedly partly to save on font licensing fees."
+  },
+  {
+    "name": "AMS Euler",
+    "designer": "Hermann Zapf",
+    "year": "1983",
+    "classification": "Mathematical",
+    "fact": "Zapf designed it with Donald Knuth for the American Mathematical Society. It gives math an upright, handwritten feel."
+  },
+  {
+    "name": "Amiri",
+    "designer": "Khaled Hosny",
+    "year": "2011",
+    "classification": "Arabic Naskh",
+    "fact": "It is a free revival of the elegant Naskh type used by Cairo's Bulaq Press in the early 20th century."
+  },
+  {
+    "name": "Charlemagne",
+    "designer": "Carol Twombly",
+    "year": "1989",
+    "classification": "Display capitals",
+    "fact": "It is based on the capitals of Carolingian manuscripts from the era of Charlemagne."
+  },
+  {
+    "name": "Bebas Neue",
+    "designer": "Ryoichi Tsunekawa",
+    "year": "2010",
+    "classification": "Display sans (condensed)",
+    "fact": "It started as a free all-caps display font and became one of the most-used headline fonts on the web."
+  },
+  {
+    "name": "Algerian",
+    "designer": "Stephenson Blake (revived by Alan Meeks)",
+    "year": "c. 1908",
+    "classification": "Decorative capitals",
+    "fact": "Once a Victorian-style decorative face, it became a familiar option in word-processor font menus."
+  },
+  {
+    "name": "Nanum Gothic",
+    "designer": "Sandoll (for Naver)",
+    "year": "2008",
+    "classification": "Korean gothic",
+    "fact": "Naver released the Nanum fonts for free, and they became some of the most common Korean fonts on the web."
+  },
+  {
+    "name": "Chalkboard",
+    "designer": "Apple",
+    "year": "2003",
+    "classification": "Casual",
+    "fact": "Mac users met it as a \"chalk on a blackboard\" style font bundled with the system."
+  },
+  {
+    "name": "Mistral",
+    "designer": "Roger Excoffon",
+    "year": "1953",
+    "classification": "Script",
+    "fact": "In metal type its letters connect so smoothly that it looks truly handwritten, which was quite a technical feat for the time."
+  },
+  {
+    "name": "Papyrus",
+    "designer": "Chris Costello",
+    "year": "1982",
+    "classification": "Display",
+    "fact": "Costello was 23 when he drew it by hand over roughly six months. Decades later it starred in an SNL sketch about the Avatar logo."
+  },
+  {
+    "name": "Johnston",
+    "designer": "Edward Johnston",
+    "year": "1916",
+    "classification": "Humanist sans",
+    "fact": "Commissioned for the London Underground, it has been in use for over a century. Its modern descendant, New Johnston, still appears on Tube signs."
+  },
+  {
+    "name": "Whitney",
+    "designer": "Tobias Frere-Jones",
+    "year": "2004",
+    "classification": "Humanist sans",
+    "fact": "It was designed for the Whitney Museum in New York and had to work on both signage and print."
+  },
+  {
+    "name": "Syntax",
+    "designer": "Hans Eduard Meier",
+    "year": "1968",
+    "classification": "Humanist sans",
+    "fact": "Meier based it on Renaissance roman letterforms, giving a sans serif the rhythm of a book face."
+  },
+  {
+    "name": "Haettenschweiler",
+    "designer": "Walter Haettenschweiler & Armin Haab",
+    "year": "1954",
+    "classification": "Display sans (condensed)",
+    "fact": "This ultra-condensed face shipped with Windows, so plenty of people know the name without knowing where it came from."
+  },
+  {
+    "name": "Golden Type",
+    "designer": "William Morris",
+    "year": "1890",
+    "classification": "Venetian serif",
+    "fact": "Morris designed it for his Kelmscott Press as part of his revolt against the poor quality of Victorian printing."
+  },
+  {
+    "name": "Quicksand",
+    "designer": "Andrew Paglinawan",
+    "year": "2008",
+    "classification": "Rounded sans",
+    "fact": "This rounded display face was later expanded into a full free family on Google Fonts."
+  },
+  {
+    "name": "Lydian",
+    "designer": "Warren Chappell",
+    "year": "1938",
+    "classification": "Calligraphic sans",
+    "fact": "Chappell drew it with a broad pen, which gives a sans serif an elegant thick-and-thin rhythm."
+  },
+  {
+    "name": "BBC Reith",
+    "designer": "Dalton Maag",
+    "year": "2017",
+    "classification": "Sans & serif",
+    "fact": "It is named after Lord Reith, the BBC's founding director general."
+  },
+  {
+    "name": "Atkinson Hyperlegible",
+    "designer": "Braille Institute & Applied Design Works",
+    "year": "2019",
+    "classification": "Grotesque sans",
+    "fact": "It was made for low-vision readers, with letters that are hard to confuse, like I, l and 1. It is named after Braille Institute founder J. Robert Atkinson."
+  },
+  {
+    "name": "Bernhard Modern",
+    "designer": "Lucian Bernhard",
+    "year": "1937",
+    "classification": "Display serif",
+    "fact": "Bernhard, a poster pioneer, is famous for the \"Sachplakat\" (object poster) style."
+  },
+  {
+    "name": "Poetica",
+    "designer": "Robert Slimbach",
+    "year": "1992",
+    "classification": "Chancery script",
+    "fact": "It has an enormous set of alternate letters and swashes, so no two words need look the same."
+  },
+  {
+    "name": "DM Sans",
+    "designer": "Colophon",
+    "year": "2019",
+    "classification": "Geometric sans",
+    "fact": "It was developed from Poppins as a low-contrast sans for small text."
+  },
+  {
+    "name": "Constantia",
+    "designer": "John Hudson",
+    "year": "2005",
+    "classification": "Serif",
+    "fact": "It is the ClearType collection's book serif, designed to be readable both on screen and in print."
+  },
+  {
+    "name": "Nofret",
+    "designer": "Gudrun Zapf-von Hesse",
+    "year": "1986",
+    "classification": "Serif",
+    "fact": "It is named after Nefertiti, the Egyptian queen."
+  },
+  {
+    "name": "OCR-B",
+    "designer": "Adrian Frutiger",
+    "year": "1968",
+    "classification": "Monospaced (machine-readable)",
+    "fact": "This friendlier machine-readable font is still used for the numbers under barcodes and the machine-readable zone of passports."
+  },
+  {
+    "name": "Segoe UI",
+    "designer": "Steve Matteson",
+    "year": "2004",
+    "classification": "Humanist sans",
+    "fact": "It has been the core of Windows' interface since Windows Vista."
+  },
+  {
+    "name": "Frank Rühl",
+    "designer": "Rafael Frank",
+    "year": "1908",
+    "classification": "Hebrew serif",
+    "fact": "It is one of the most widely used Hebrew text typefaces, especially in books and newspapers."
+  },
+  {
+    "name": "Book Antiqua",
+    "designer": "Monotype",
+    "year": "1991",
+    "classification": "Old-style serif",
+    "fact": "Hermann Zapf strongly objected to this Palatino lookalike, which shipped with Microsoft Office."
+  },
+  {
+    "name": "Hershey Fonts",
+    "designer": "Allen Vincent Hershey",
+    "year": "1967",
+    "classification": "Vector fonts",
+    "fact": "Hershey made them at the U.S. Naval Weapons Laboratory as stroke-based letters for early computer plotters."
+  },
+  {
+    "name": "Kennerley",
+    "designer": "Frederic Goudy",
+    "year": "1911",
+    "classification": "Old-style serif",
+    "fact": "It was designed for publisher Mitchell Kennerley. Its success helped launch Goudy's career."
+  },
+  {
+    "name": "ITC Kabel",
+    "designer": "Rudolf Koch (ITC revival by Victor Caruso)",
+    "year": "1976",
+    "classification": "Geometric sans",
+    "fact": "ITC's 1976 version enlarged the x-height, giving Kabel a very different disco-era feel."
+  },
+  {
+    "name": "Cascadia Code",
+    "designer": "Microsoft",
+    "year": "2019",
+    "classification": "Monospaced",
+    "fact": "It launched with the new Windows Terminal and was named after the Cascadia region where Microsoft is based."
+  },
+  {
+    "name": "Courier",
+    "designer": "Howard \"Bud\" Kettler",
+    "year": "1955",
+    "classification": "Monospaced slab serif",
+    "fact": "Kettler drew it for IBM typewriters. He said \"a letter can be just an ordinary letter, or it can be a courier\" and picked the dignified name."
+  },
+  {
+    "name": "Mandatory",
+    "designer": "Charles Wright",
+    "year": "2001",
+    "classification": "Sans (license plate)",
+    "fact": "This is the typeface legally required on UK number plates since 2001, which ended a free-for-all of decorative plates."
+  },
+  {
+    "name": "Didot HTF",
+    "designer": "Jonathan Hoefler",
+    "year": "1991",
+    "classification": "Didone serif",
+    "fact": "It was made for Harper's Bazaar in sizes cut for different scales, so hairlines stay sharp even when huge."
+  },
+  {
+    "name": "Arnhem",
+    "designer": "Fred Smeijers",
+    "year": "2002",
+    "classification": "Serif",
+    "fact": "It was originally designed for the Nederlandse Staatscourant, the Dutch government gazette."
+  },
+  {
+    "name": "Obsidian",
+    "designer": "Hoefler & Co.",
+    "year": "2015",
+    "classification": "Decorative",
+    "fact": "It uses computer-generated 3D lighting on engraved letters to imitate 19th-century decorative type."
+  },
+  {
+    "name": "Iosevka",
+    "designer": "Belleve Invis",
+    "year": "2015",
+    "classification": "Monospaced",
+    "fact": "It is narrow, so you can fit more code side by side. Users can build their own custom versions from its source code."
+  },
+  {
+    "name": "ITC Tiffany",
+    "designer": "Ed Benguiat",
+    "year": "1974",
+    "classification": "Display serif",
+    "fact": "It combines features of Ronaldson and Caxton Old Style, with Art Nouveau flair."
+  },
+  {
+    "name": "Noori Nastaliq",
+    "designer": "Ahmed Mirza Jamil",
+    "year": "1981",
+    "classification": "Urdu Nastaliq",
+    "fact": "Nastaliq's slanting cascades are notoriously hard to typeset. Jamil's system used thousands of pre-drawn ligatures."
+  },
+  {
+    "name": "National",
+    "designer": "Kris Sowersby (Klim)",
+    "year": "2007",
+    "classification": "Sans",
+    "fact": "It was Klim's breakout release and was praised for its quirky, warm details."
+  },
+  {
+    "name": "Poynter Oldstyle",
+    "designer": "Tobias Frere-Jones",
+    "year": "1997",
+    "classification": "Old-style serif",
+    "fact": "It was designed for newspaper text as part of Font Bureau's readability research."
+  },
+  {
+    "name": "Lithos",
+    "designer": "Carol Twombly",
+    "year": "1989",
+    "classification": "Display (inscriptional)",
+    "fact": "It was inspired by ancient Greek inscriptions and became hugely popular on 1990s restaurant menus and posters."
+  },
+  {
+    "name": "Input",
+    "designer": "David Jonathan Ross",
+    "year": "2014",
+    "classification": "Monospaced & proportional",
+    "fact": "It was designed for code and you can customise it before download. It even offers proportional versions for programming."
+  },
+  {
+    "name": "Cronos",
+    "designer": "Robert Slimbach",
+    "year": "1996",
+    "classification": "Humanist sans",
+    "fact": "Slimbach based it on his own broad-pen calligraphy."
+  },
+  {
+    "name": "Méridien",
+    "designer": "Adrian Frutiger",
+    "year": "1957",
+    "classification": "Serif",
+    "fact": "It was one of Frutiger's first big type designs, released the same year as Univers."
+  },
+  {
+    "name": "Espy Sans",
+    "designer": "Apple",
+    "year": "1993",
+    "classification": "Sans",
+    "fact": "This was the system font of the Apple Newton, Apple's early handheld."
+  },
+  {
+    "name": "Goudy Old Style",
+    "designer": "Frederic Goudy",
+    "year": "1915",
+    "classification": "Old-style serif",
+    "fact": "Goudy was astonishingly prolific and designed over 100 typefaces in his lifetime."
+  },
+  {
+    "name": "Lucida Grande",
+    "designer": "Charles Bigelow & Kris Holmes",
+    "year": "1985 (Lucida)",
+    "classification": "Humanist sans",
+    "fact": "It was the macOS interface font from Mac OS X until 2014, when Yosemite switched to Helvetica Neue."
+  },
+  {
+    "name": "Airbnb Cereal",
+    "designer": "Dalton Maag",
+    "year": "2018",
+    "classification": "Geometric sans",
+    "fact": "Airbnb created it so its product and brand would share one consistent voice."
+  },
+  {
+    "name": "Museo",
+    "designer": "Jos Buivenga",
+    "year": "2008",
+    "classification": "Slab/sans",
+    "fact": "Buivenga made some weights free, which helped make his foundry exljbris famous."
+  },
+  {
+    "name": "Standard (Akzidenz Medium)",
+    "designer": "H. Berthold AG",
+    "year": "1898 (NYC use 1970)",
+    "classification": "Grotesque sans",
+    "fact": "Unimark's 1970 New York subway signage manual specified Akzidenz-Grotesk, called \"Standard\" in the U.S., before Helvetica took over."
+  },
+  {
+    "name": "Tekton",
+    "designer": "David Siegel",
+    "year": "1989",
+    "classification": "Handwriting",
+    "fact": "It is based on the architectural lettering of Francis D. K. Ching, the author of architecture textbooks."
+  },
+  {
+    "name": "Perpetua",
+    "designer": "Eric Gill",
+    "year": "1929",
+    "classification": "Transitional serif",
+    "fact": "It is named after Saint Perpetua, an early Christian martyr. Its companion italic was called Felicity, after her fellow martyr."
+  },
+  {
+    "name": "Cheltenham",
+    "designer": "Bertram Goodhue",
+    "year": "1896",
+    "classification": "Old-style serif",
+    "fact": "The New York Times uses Cheltenham for its headlines."
+  },
+  {
+    "name": "Zapf Chancery",
+    "designer": "Hermann Zapf",
+    "year": "1979",
+    "classification": "Chancery script",
+    "fact": "As one of the core fonts built into PostScript printers, it turned up on countless certificates."
+  },
+  {
+    "name": "Windsor",
+    "designer": "Stephenson Blake",
+    "year": "1905",
+    "classification": "Display serif",
+    "fact": "Its heavy, cozy letterforms open the credits of many of Woody Allen's films."
+  },
+  {
+    "name": "ITC Garamond",
+    "designer": "Tony Stan",
+    "year": "1975",
+    "classification": "Old-style serif",
+    "fact": "A condensed version, \"Apple Garamond,\" served as Apple's corporate typeface from 1984 into the early 2000s."
+  },
+  {
+    "name": "Caslon",
+    "designer": "William Caslon",
+    "year": "1720s",
+    "classification": "Old-style serif",
+    "fact": "The first printed copies of the U.S. Declaration of Independence, the Dunlap broadsides, are usually identified as Caslon."
+  },
+  {
+    "name": "OpenDyslexic",
+    "designer": "Abbie Gonzalez",
+    "year": "2011",
+    "classification": "Sans",
+    "fact": "Its letters have heavier bottoms, meant to help some dyslexic readers keep letters from seeming to flip or rotate."
+  },
+  {
+    "name": "Quadraat",
+    "designer": "Fred Smeijers",
+    "year": "1992",
+    "classification": "Serif",
+    "fact": "Smeijers drew on his study of 16th-century punchcutting."
+  },
+  {
+    "name": "Metro",
+    "designer": "W. A. Dwiggins",
+    "year": "1929",
+    "classification": "Geometric sans",
+    "fact": "Dwiggins criticised existing sans serifs in his 1928 book \"Layout in Advertising.\" Mergenthaler Linotype then challenged him to design a better one, and Metro was the result."
+  },
+  {
+    "name": "Melior",
+    "designer": "Hermann Zapf",
+    "year": "1952",
+    "classification": "Serif",
+    "fact": "Zapf based it on a \"super-ellipse,\" a rounded-rectangle shape, which gives it a sturdy newspaper feel."
+  },
+  {
+    "name": "STIX Two",
+    "designer": "STIX Fonts project",
+    "year": "2016",
+    "classification": "Math serif",
+    "fact": "A consortium of scientific publishers funded STIX to cover every mathematical symbol they needed."
+  },
+  {
+    "name": "Oakland",
+    "designer": "Zuzana Licko",
+    "year": "1985",
+    "classification": "Bitmap",
+    "fact": "One of Emigre's first fonts, built pixel by pixel on the original Macintosh."
+  },
+  {
+    "name": "Overpass",
+    "designer": "Delve Withrington",
+    "year": "2011",
+    "classification": "Sans",
+    "fact": "Red Hat commissioned it as a free typeface based on U.S. Highway Gothic."
+  },
+  {
+    "name": "Neue Haas Grotesk",
+    "designer": "Christian Schwartz (revival)",
+    "year": "2010",
+    "classification": "Neo-grotesque sans",
+    "fact": "This digital revival restores details of the original 1957 metal version that were lost in later Helvetica releases."
+  },
+  {
+    "name": "Jenson",
+    "designer": "Nicolas Jenson",
+    "year": "1470",
+    "classification": "Venetian serif",
+    "fact": "Jenson's roman, cut in Venice, is one of the earliest and most admired roman types. It still influences book typefaces today."
+  },
+  {
+    "name": "Source Serif",
+    "designer": "Frank Grießhammer",
+    "year": "2014",
+    "classification": "Transitional serif",
+    "fact": "It was inspired by the 18th-century types of Pierre-Simon Fournier and designed to pair with Source Sans."
+  },
+  {
+    "name": "Clearview",
+    "designer": "Don Meeker & James Montalbano",
+    "year": "2004",
+    "classification": "Humanist sans (signage)",
+    "fact": "The U.S. approved it for highway signs in 2004, withdrew approval in 2016, and reinstated it in 2018."
+  },
+  {
+    "name": "Lucida Console",
+    "designer": "Charles Bigelow & Kris Holmes",
+    "year": "1993",
+    "classification": "Monospaced",
+    "fact": "It was long the default font of the Windows command prompt."
+  },
+  {
+    "name": "ITC Bookman",
+    "designer": "Ed Benguiat",
+    "year": "1975",
+    "classification": "Old-style serif",
+    "fact": "Its swash alternates became a signature of 1970s headlines."
+  },
+  {
+    "name": "Curlz",
+    "designer": "Carl Crossgrove & Steve Matteson",
+    "year": "1995",
+    "classification": "Decorative",
+    "fact": "It shipped with Microsoft Office and became a staple of birthday party invitations."
+  },
+  {
+    "name": "Glaser Stencil",
+    "designer": "Milton Glaser",
+    "year": "1970",
+    "classification": "Geometric stencil",
+    "fact": "It comes from the designer behind \"I ♥ NY\" and the Bob Dylan psychedelic poster."
+  },
+  {
+    "name": "Compacta",
+    "designer": "Fred Lambert",
+    "year": "1963",
+    "classification": "Display sans (condensed)",
+    "fact": "This extremely tight, dark face was a favourite of 1960s and 70s posters."
+  },
+  {
+    "name": "Warnock",
+    "designer": "Robert Slimbach",
+    "year": "2000",
+    "classification": "Serif",
+    "fact": "It is named after John Warnock, Adobe's co-founder, and was made to honour him."
+  },
+  {
+    "name": "Dom Casual",
+    "designer": "Peter Dom",
+    "year": "1952",
+    "classification": "Casual",
+    "fact": "It captures quick sign-painter brush lettering and was everywhere on mid-century American signage."
+  },
+  {
+    "name": "Fira Code",
+    "designer": "Nikita Prokopov",
+    "year": "2014",
+    "classification": "Monospaced",
+    "fact": "It adds programming ligatures, so symbols like -> and != render as single glyphs."
+  },
+  {
+    "name": "Sassoon",
+    "designer": "Rosemary Sassoon",
+    "year": "1985",
+    "classification": "Infant sans",
+    "fact": "It was designed for children learning to read and write. Letters have little exit strokes that lead into joined-up handwriting."
+  },
+  {
+    "name": "Gill Sans Nova",
+    "designer": "Eric Gill & George Ryan",
+    "year": "2015",
+    "classification": "Humanist sans",
+    "fact": "Monotype's expanded Gill Sans added dozens of styles, including some based on Gill's original drawings."
+  },
+  {
+    "name": "Times New Roman",
+    "designer": "Stanley Morison & Victor Lardent",
+    "year": "1932",
+    "classification": "Transitional serif",
+    "fact": "It was commissioned by The Times of London. The paper itself stopped using it in 1972."
+  },
+  {
+    "name": "Romulus",
+    "designer": "Jan van Krimpen",
+    "year": "1931",
+    "classification": "Serif",
+    "fact": "Van Krimpen planned it as a huge family with sans and script companions, an early idea of a superfamily."
+  },
+  {
+    "name": "Microgramma",
+    "designer": "Aldo Novarese & Alessandro Butti",
+    "year": "1952",
+    "classification": "Square sans",
+    "fact": "The capitals-only predecessor of Eurostile. It has appeared in countless films and on sci-fi control panels."
+  },
+  {
+    "name": "Matrix",
+    "designer": "Zuzana Licko",
+    "year": "1986",
+    "classification": "Display serif",
+    "fact": "Licko designed early Emigre fonts to work within the limits of the first Macintosh's low-resolution screens and printers."
+  },
+  {
+    "name": "Impact",
+    "designer": "Geoffrey Lee",
+    "year": "1965",
+    "classification": "Grotesque sans (condensed)",
+    "fact": "Released as a sturdy headline face, it was reborn online as the classic white-with-black-outline meme font."
+  },
+  {
+    "name": "Interstate",
+    "designer": "Tobias Frere-Jones",
+    "year": "1993",
+    "classification": "Sans (signage-inspired)",
+    "fact": "Frere-Jones based it on the U.S. highway signage alphabets, turning road lettering into a typeface for print."
+  },
+  {
+    "name": "Elizabeth",
+    "designer": "Elizabeth Friedlander",
+    "year": "1938",
+    "classification": "Serif",
+    "fact": "Friedlander designed it for the Bauer foundry. It was among the first 20th-century typefaces named after a woman designer."
+  },
+  {
+    "name": "Futura",
+    "designer": "Paul Renner",
+    "year": "1927",
+    "classification": "Geometric sans",
+    "fact": "The plaque Apollo 11 left on the Moon (\"Here men from the planet Earth first set foot upon the Moon...\") is set in Futura."
+  },
+  {
+    "name": "Rail Alphabet",
+    "designer": "Jock Kinneir & Margaret Calvert",
+    "year": "1965",
+    "classification": "Neo-grotesque sans (signage)",
+    "fact": "It was made for British Rail and also ended up on hospital signage across the UK's NHS."
+  },
+  {
+    "name": "Ionic No. 5",
+    "designer": "Chauncey H. Griffith",
+    "year": "1925",
+    "classification": "Newspaper serif",
+    "fact": "It was built for Linotype machines. Newspapers set on them sometimes printed \"etaoin shrdlu,\" a typo from running a finger down the keyboard."
+  },
+  {
+    "name": "Frutiger Next",
+    "designer": "Adrian Frutiger",
+    "year": "2000",
+    "classification": "Humanist sans",
+    "fact": "Frutiger updated his own classic with a true italic instead of the original sloped roman."
+  },
+  {
+    "name": "Chirp",
+    "designer": "Grilli Type",
+    "year": "2021",
+    "classification": "Grotesque sans",
+    "fact": "Twitter's custom typeface was adapted from GT America."
+  },
+  {
+    "name": "Poppins",
+    "designer": "Indian Type Foundry",
+    "year": "2014",
+    "classification": "Geometric sans",
+    "fact": "It supports both Latin and Devanagari, the script used for Hindi and many other languages."
+  },
+  {
+    "name": "Knockout",
+    "designer": "Jonathan Hoefler",
+    "year": "1994",
+    "classification": "Grotesque sans",
+    "fact": "Its widths and weights are named after boxing classes, such as Flyweight, Welterweight and Heavyweight."
+  },
+  {
+    "name": "Century",
+    "designer": "Linn Boyd Benton & Theodore Low De Vinne",
+    "year": "1894",
+    "classification": "Clarendon-style serif",
+    "fact": "It was created for The Century Magazine, and the name stuck to the whole family that followed."
+  },
+  {
+    "name": "Fontin",
+    "designer": "Jos Buivenga",
+    "year": "2005",
+    "classification": "Humanist sans/serif",
+    "fact": "Its free release made Buivenga one of the first independent designers to gain wide exposure by giving fonts away."
+  },
+  {
+    "name": "Thorowgood",
+    "designer": "Robert Thorne",
+    "year": "c. 1820",
+    "classification": "Fat Face",
+    "fact": "Thorne is credited with the \"fat face,\" with extreme contrast and huge, heavy strokes, made for loud Victorian posters."
+  },
+  {
+    "name": "Duc de Berry",
+    "designer": "Gottfried Pott",
+    "year": "1990",
+    "classification": "Blackletter",
+    "fact": "It captures the lettering of the medieval Book of Hours made for the Duke of Berry."
+  },
+  {
+    "name": "Aptos",
+    "designer": "Steve Matteson",
+    "year": "2023",
+    "classification": "Grotesque sans",
+    "fact": "It became Microsoft Office's default font in 2023. While in development it was called Bierstadt."
+  },
+  {
+    "name": "Korinna",
+    "designer": "H. Berthold AG (ITC version by Ed Benguiat & Vic Caruso)",
+    "year": "1904",
+    "classification": "Art Nouveau serif",
+    "fact": "For decades the clues on Jeopardy! have been displayed in a version of Korinna."
+  },
+  {
+    "name": "Nobel",
+    "designer": "Sjoerd de Roos",
+    "year": "1929",
+    "classification": "Geometric sans",
+    "fact": "This Dutch geometric sans was revived by Tobias Frere-Jones for Font Bureau in 1993."
+  },
+  {
+    "name": "Public Sans",
+    "designer": "U.S. Web Design System",
+    "year": "2019",
+    "classification": "Neo-grotesque sans",
+    "fact": "It is the U.S. government's open-source typeface for its websites, derived from Libre Franklin."
+  },
+  {
+    "name": "Spencerian Script",
+    "designer": "Platt Rogers Spencer",
+    "year": "1840s",
+    "classification": "Handwriting",
+    "fact": "The Coca-Cola logo is written in Spencerian script, a style once taught in American schools."
+  },
+  {
+    "name": "Bitstream Charter",
+    "designer": "Matthew Carter",
+    "year": "1987",
+    "classification": "Transitional serif",
+    "fact": "It was designed to print well on low-resolution laser printers and was later donated for free use."
+  },
+  {
+    "name": "Menlo",
+    "designer": "Jim Lyles (Apple)",
+    "year": "2009",
+    "classification": "Monospaced sans",
+    "fact": "Apple's coding font is derived from Bitstream Vera and DejaVu Sans Mono, both open-source ancestors."
+  }
+]
