@@ -12,6 +12,7 @@ import argparse
 import json
 import os
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date, datetime
@@ -70,10 +71,14 @@ def post(payload, webhook):
         data=json.dumps(payload).encode("utf-8"),
         headers={"Content-Type": "application/json"},
     )
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        body = resp.read().decode()
-        if resp.status != 200 or body != "ok":
-            raise RuntimeError(f"Slack returned {resp.status}: {body}")
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            body = resp.read().decode()
+            status = resp.status
+    except urllib.error.HTTPError as e:
+        body, status = e.read().decode(), e.code
+    if status != 200 or body != "ok":
+        raise RuntimeError(f"Slack rejected the post ({status}: {body}). Check that SLACK_WEBHOOK_URL is the full, current webhook URL.")
 
 
 def validate(typefaces):
@@ -124,7 +129,7 @@ def main():
 
     webhook = os.environ.get("SLACK_WEBHOOK_URL")
     if not webhook:
-        print("SLACK_WEBHOOK_URL is not set.", file=sys.stderr)
+        print("SLACK_WEBHOOK_URL is not set. Add it under the repo's Settings → Secrets and variables → Actions.", file=sys.stderr)
         return 1
     post(payload, webhook)
     print(f"Posted {payload['blocks'][1]['text']['text']} for {day}.")
