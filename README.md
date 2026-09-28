@@ -1,6 +1,6 @@
 # 🔤 Typeface of the Day
 
-A Slack bot that posts one typeface a day, every day of the year, with a fun fact. It posts at **9:00am Toronto time** and runs free on GitHub Actions.
+A Slack bot that posts one typeface a day, every day of the year, with a fun fact. It posts once each morning (no earlier than 9:00am Toronto time) and runs free on GitHub Actions.
 
 - `typefaces.json`: 366 typefaces, one per calendar date (Feb 29 included).
 - `bot.py`: picks today's typeface and posts it to Slack. Uses only the Python standard library.
@@ -26,7 +26,7 @@ In the repo, go to **Settings → Secrets and variables → Actions → New repo
 - Value: the webhook URL from step 1
 
 ### 4. Send a test post
-Go to **Actions → Daily Typeface → Run workflow**, keep "force" ticked, and click **Run workflow**. Today's typeface should show up in your channel within a minute.
+Go to **Actions → Daily Typeface → Run workflow** and click **Run workflow**. Today's typeface should show up in your channel within a minute.
 
 After that it posts automatically every morning.
 
@@ -34,13 +34,14 @@ After that it posts automatically every morning.
 
 ```bash
 python3 bot.py --validate                              # check the data file
-python3 bot.py --dry-run --force                       # preview today's message
-python3 bot.py --dry-run --force --date 2026-12-25     # preview any date
-SLACK_WEBHOOK_URL=https://hooks.slack.com/... python3 bot.py --force   # post now
+python3 bot.py --dry-run                               # preview today's message
+python3 bot.py --dry-run --date 2026-12-25             # preview any date
+SLACK_WEBHOOK_URL=https://hooks.slack.com/... python3 bot.py   # post now
 ```
 
 ## Notes
-- **Time zone:** set by `BOT_TIMEZONE` (default `America/Toronto`) and `BOT_POST_HOUR` (default `9`). If you change the time zone, also change the two UTC cron times in the workflow so one of them falls in your 9am hour.
-- **Timing:** GitHub's scheduler can run a few minutes late when it's busy, so expect the post around 9:00–9:15.
+- **Timing:** the workflow is scheduled for 14:05 UTC (9:05am Toronto in winter, 10:05am in summer), but GitHub often starts scheduled runs late, sometimes by several hours. Expect the post sometime in the late morning or early afternoon.
+- **Time zone:** `BOT_TIMEZONE` (default `America/Toronto`) decides which date's typeface is posted.
+- **Running it manually** posts today's typeface again, so the channel will get a second copy that day.
 - **Keep-alive:** GitHub pauses scheduled workflows in repos with no activity for 60 days. If that happens, re-enable it from the Actions tab, or push a small commit every couple of months.
 - **Editing facts:** edit `typefaces.json`. Entry 1 is Jan 1, entry 60 is Feb 29, and entry 366 is Dec 31. Run `--validate` afterwards.

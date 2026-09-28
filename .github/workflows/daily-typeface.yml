@@ -2,16 +2,11 @@ name: Daily Typeface
 
 on:
   schedule:
-    # 9:00am America/Toronto is 13:00 UTC in summer (EDT) and 14:00 UTC in winter (EST).
-    # Both run; bot.py only posts from the one that lands in the 9am local hour.
-    - cron: "0 13 * * *"
-    - cron: "0 14 * * *"
+    # 14:05 UTC = 9:05am Toronto in winter, 10:05am in summer. GitHub often
+    # starts scheduled runs late (sometimes by hours), so this is the earliest
+    # it will post, not the exact time. One schedule = one post per day.
+    - cron: "5 14 * * *"
   workflow_dispatch:
-    inputs:
-      force:
-        description: "Post right now, ignoring the 9am check"
-        type: boolean
-        default: true
 
 jobs:
   post:
@@ -24,9 +19,4 @@ jobs:
       - name: Post typeface of the day
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
-            python bot.py --force
-          else
-            python bot.py
-          fi
+        run: python bot.py

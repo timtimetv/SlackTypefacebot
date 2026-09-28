@@ -2,10 +2,9 @@
 """Typeface of the Day: posts one typeface + fun fact to a Slack channel.
 
 Usage:
-  python3 bot.py                    # post today's typeface (only during the 9am hour)
-  python3 bot.py --force            # post now regardless of the time
-  python3 bot.py --dry-run --force  # print the Slack payload instead of posting
-  python3 bot.py --date 2026-12-25 --dry-run --force
+  python3 bot.py                    # post today's typeface
+  python3 bot.py --dry-run          # print the Slack payload instead of posting
+  python3 bot.py --date 2026-12-25 --dry-run
   python3 bot.py --validate         # sanity-check typefaces.json
 """
 import argparse
@@ -20,7 +19,6 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 TIMEZONE = os.environ.get("BOT_TIMEZONE", "America/Toronto")
-POST_HOUR = int(os.environ.get("BOT_POST_HOUR", "9"))
 DATA_FILE = Path(__file__).with_name("typefaces.json")
 FIELDS = ("name", "designer", "year", "classification", "fact")
 
@@ -98,7 +96,6 @@ def validate(typefaces):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--force", action="store_true", help="post regardless of the current hour")
     parser.add_argument("--dry-run", action="store_true", help="print the payload instead of posting")
     parser.add_argument("--date", help="use this date (YYYY-MM-DD) instead of today")
     parser.add_argument("--validate", action="store_true", help="check typefaces.json and exit")
@@ -114,11 +111,6 @@ def main():
         return 1 if problems else 0
 
     now = datetime.now(ZoneInfo(TIMEZONE))
-    if not args.force and now.hour != POST_HOUR:
-        # The workflow runs at two UTC times to cover daylight saving;
-        # only the run that lands in the 9am local hour posts.
-        print(f"It's {now:%H:%M} in {TIMEZONE}, not the {POST_HOUR}:00 hour. Skipping.")
-        return 0
 
     day = date.fromisoformat(args.date) if args.date else now.date()
     payload = build_payload(day, typeface_for(day, typefaces))
